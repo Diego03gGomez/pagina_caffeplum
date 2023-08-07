@@ -15,6 +15,13 @@ $(".cerrar").click(function (e) {
     
 });
 
+$("#fondo1").hide();
+$("header").hide();
+
+
+$("header").fadeIn(2000);
+$("#fondo1").fadeIn(2000);
+
 
 
 
