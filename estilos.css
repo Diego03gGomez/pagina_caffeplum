@@ -164,8 +164,8 @@ color: grey;
 #fondo2{
   
     height: 100%;
-    padding-top: 100px;
-    padding-bottom: 100px;
+    padding-top: 150px;
+    padding-bottom: 200px;
 }
 
 /*ESTILOS PARA EL FONDO 3*/
@@ -380,6 +380,10 @@ body{
     background-color: black;
   }
 
+  #fondo4{
+    padding-top: 100px;
+  }
+
 
 
 
@@ -434,6 +438,11 @@ body{
     width: 90%;
 }
 
+#fondo4{
+    padding-top: 50px;
+}
+
+
 }
 
 
@@ -464,6 +473,13 @@ body{
     grid-template-columns: 1fr;
     gap: 70px;
 }
+
+
+#fondo2{
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
 
 .img_des_cafe img{
     width: 80%;
